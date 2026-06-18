@@ -2,7 +2,7 @@
 
 **Autorius:** Margiris Antanas Malakauskas  
 **Vadovas:** lekt. Irus Grinis  
-**Vilniaus universitetas, Matematikos ir informatikos fakultetas, 2025**
+**Vilniaus universitetas, Matematikos ir informatikos fakultetas, 2026**
 
 ---
 
